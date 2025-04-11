@@ -17,3 +17,11 @@ Bu projede; ilk olarak proje içine Models isimli bir klasör ekledik. Sonra bu 
 Bu projede; projemize kaldığımız yerden devam ederek FrmDashboard isimli yeni form sayfası açıp tasarımını diğer fromlar ile aynı şekilde düzenledik. Burada önce toplam bakiyemizi gösterdik, faturalarımızı her saniyede biri ekranda görünecek şekilde(form içine timer ekleyerek) ayarladık, gelen son havaleyi göstermesi için de bir ekran tasarladık. Son olarak formumuza 2 tane grafik ekleyerek verilerimizi grafik üzerinde gösterdik.  
 
 ![FrmDashboard](https://github.com/DemirbasAlperen/CSharpEgitimKampiFinancialCrm/blob/master/FrmDashboard.png)
+
+# :sunny: C# Eğitim Kampı Final Case
+Final Case ini Login(FrmLogin) ve Kategoriler(FrmCategory) formunu yaparak tamamladım. Formlar arasında ilişki kurarak tüm formlar arasında geçiş sağladım. Kategoriler formuna da listeleme, ekleme, silme, güncelleme gibi buton işlemlerini de ekledim. Son olarak form sayfalarında bulunan Çıkış Yap butonu da aktifleştirildi, bu butona basınca Login sayfası açılıyor. Kullanıcı adı: admin, Şifre: 1234 olarak Sql tarafında ayarlanmıştı. 
+
+![FrmCategory](https://github.com/DemirbasAlperen/CSharpEgitimKampiFinancialCrm/blob/master/FrmCategory.png)
+
+![FrmLogin](https://github.com/DemirbasAlperen/CSharpEgitimKampiFinancialCrm/blob/master/FrmLogin.png)
+
