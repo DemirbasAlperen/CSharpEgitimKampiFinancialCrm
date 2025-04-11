@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\financialcrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\financialcrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\financialcrm\\financialcrm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\financialcrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95BC12B-9877-4470-B296-7A11C3CF29ED}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:10:09.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:10:07.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:10:06.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:10:05.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:04:39.216Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeToolTip": "FinancialCrm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:35:24.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
