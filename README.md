@@ -14,4 +14,6 @@ Bu projede; ilk olarak proje içine Models isimli bir klasör ekledik. Sonra bu 
 ![FrmBilling](https://github.com/DemirbasAlperen/CSharpEgitimKampiFinancialCrm/blob/master/FrmBilling.png)
 
 # :sunny: Proje 30  Proje: Finansal Crm Uygulaması Final Dersi
-Bu projede; 
+Bu projede; projemize kaldığımız yerden devam ederek FrmDashboard isimli yeni form sayfası açıp tasarımını diğer fromlar ile aynı şekilde düzenledik. Burada önce toplam bakiyemizi gösterdik, faturalarımızı her saniyede biri ekranda görünecek şekilde(form içine timer ekleyerek) ayarladık, gelen son havaleyi göstermesi için de bir ekran tasarladık. Son olarak formumuza 2 tane grafik ekleyerek verilerimizi grafik üzerinde gösterdik.  
+
+![FrmDashboard](https://github.com/DemirbasAlperen/CSharpEgitimKampiFinancialCrm/blob/master/FrmDashboard.png)
