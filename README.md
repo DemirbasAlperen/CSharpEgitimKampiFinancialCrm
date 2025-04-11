@@ -11,5 +11,5 @@ Bu projede;
 
 ![FrmMongoDb](https://github.com/DemirbasAlperen/CSharpEgitimKampi601/blob/master/FrmMongoDb.png)
 
-# :sunny: Proje 30  Proje: Finansal Crm Uygulaması 3
+# :sunny: Proje 30  Proje: Finansal Crm Uygulaması Final Dersi
 Bu projede; 
